@@ -212,6 +212,8 @@
 
 .about_bio-image p {
   margin-bottom: 2rem;
+  font-weight: lighter;
+  line-height: 1.5;
 }
 
 .about_bio {
@@ -239,7 +241,8 @@
   border-bottom: 5px solid #cf92e6;
 }
 
-.about .education_training h2, .about .education_training h3 {
+.about .education_training h2,
+.about .education_training h3 {
   margin: 0.5rem 0;
 }
 
@@ -406,13 +409,13 @@
   display: grid;
   -ms-grid-columns: 1fr;
       grid-template-columns: 1fr;
-  grid-gap: 2rem;
+  grid-gap: 4rem;
   font-size: 1.5rem;
 }
 
 .contact .social-icons {
   position: initial;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
   margin-bottom: 3rem;
 }
 
@@ -478,11 +481,13 @@ body {
   background: #272727;
   color: #fff;
   height: 100vh;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   font-weight: 400;
 }
 
@@ -506,7 +511,7 @@ main {
 main .social-icons {
   position: fixed;
   bottom: 1rem;
-  left: 1rem;
+  left: 0.3rem;
 }
 
 main .social-icons a {
@@ -523,7 +528,7 @@ footer {
   font-size: 1rem;
   position: fixed;
   bottom: 0.4rem;
-  right: 1rem;
+  right: 0.3rem;
   text-align: right;
   padding: 1rem;
   color: #fff;
