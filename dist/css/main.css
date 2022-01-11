@@ -13,8 +13,8 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.2))), url("../img/model-1.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.2)), url("../img/model-1.jpg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.2))), url("../img/background.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.2)), url("../img/background.jpg") center top;
   background-size: cover;
 }
 
@@ -54,7 +54,7 @@
 }
 
 .menu-btn_burger::before {
-  content: '';
+  content: "";
   position: absolute;
   top: -8px;
   width: 28px;
@@ -65,7 +65,7 @@
 }
 
 .menu-btn_burger::after {
-  content: '';
+  content: "";
   position: absolute;
   top: 8px;
   width: 20px;
@@ -192,8 +192,8 @@
 .about_bio-image {
   height: 60vh;
   width: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.2))), url("../img/model-1.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.2)), url("../img/model-1.jpg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.2))), url("../img/background.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.2)), url("../img/background.jpg") center top;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -272,8 +272,8 @@
 .projects_bio-image {
   height: 30vh;
   width: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.2))), url("../img/model-1.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.2)), url("../img/model-1.jpg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.2))), url("../img/background.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.2)), url("../img/background.jpg") center top;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -317,7 +317,7 @@
 }
 
 .projects_item::after {
-  content: '';
+  content: "";
   position: absolute;
   top: 100%;
   left: 0;
@@ -394,8 +394,8 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.2))), url("../img/model-1.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.2)), url("../img/model-1.jpg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.2))), url("../img/background.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.2)), url("../img/background.jpg") center top;
   background-size: cover;
 }
 
